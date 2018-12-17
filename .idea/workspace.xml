@@ -1,0 +1,1769 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="e370bf32-420d-4211-9452-7c0463b24bab" name="Default" comment="111">
+      <change afterPath="D:/mhf/my_project2/templates/base.html" afterDir="false" />
+      <change afterPath="D:/mhf/my_project2/templates/index.html" afterDir="false" />
+      <change afterPath="D:/mhf/my_project2/templates/login.html" afterDir="false" />
+      <change afterPath="D:/t金服_测试/testjf1/case/test_散标_提前_匹配_按月可用.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试/testjf1/case/test_散标_提前_直投_按天ok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试/testjf1/case/test_散标_提前_直投_按月可用.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/.idea/f0ks.iml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/app_report/appium_report.html" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/app_report/shotcut/android截图.JPG" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/boke.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/caselist.txt" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/chromedriver.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/config.ini" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/config/config.yml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/YCXjijiying.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/YCXniannianying.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/YCXyueyueying.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/baidu.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/baokuanbiao.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/idcard.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/investamount.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/investbidd.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/investuser1.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/jiaoyisuo.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/jijiying.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/niannianying.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/register.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/register2.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/register_sm.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/sanbiao.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/sanbiao_day.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/sanbiao_month.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/test.csv" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/tiyanbiao.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/tuijianbiao.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/xinshoubiao.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/yueyueying.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/~$tiyanbiao.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/~$体验金_体验标.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/体验金_体验标.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/data/新手标.xlsx" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/db.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/drivers/chromedriver1.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/drivers/chromedriver2.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/drivers/chromedriver3.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/drivers/geckodriver0.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/drivers/phantomjs.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/geckodriver.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/geckodriver.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/ghostdriver.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/guancha.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jieping.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkresult/20181019091804/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkresult/20181019091804/report.html" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkresult/20181019103127/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkresult/20181022094216/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkresult/20181022094216/report.html" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkresult/20181022110442/jkreport.html" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkresult/20181022110442/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkresult/jkreport.html" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkresult/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/apptzok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/jiami2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/jiami3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/mhf.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/private.pem" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/public.pem" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/rsajiami.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/t1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testApp_getAdPosition.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testApp_login.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testAuth.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testGetAddress.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testGetAddressList.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testLoginFB.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testLogout.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testRegister.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testRegisterQuick.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testUpdatePassword.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testUploadImg.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testgetProductList.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testgetRegistVerifyCodeWithYzm.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/app/testgethomelist.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_accPandectlist.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_capitalSafe.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_getIndexPage.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_guQuanIndex.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_indexAbout.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_loanBidlist.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_loanXmlList.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_login.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_logout.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_queryCardbinBf.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_toHouseInfoList.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_touserinmoney.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_touseroutmoney.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestCase/pc/testPc_userinmoney.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/SQL.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/emailStyle.txt" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/img/test.txt" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/mhftest.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/p.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/p2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/pc_case/applogin2.xls" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/pc_case/apploginCase.xls" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/pc_case/auth.xls" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/pc_case/bidInfoList.xls" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/pc_case/getYZM.xls" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/pc_case/pcChongzhiCase.xls" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/pc_case/pcloginCase - 副本.xls" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jktestFile/pc_case/pcloginCase.xls" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/Log.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/basepage.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/businessCommon.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/common.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/configDB.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/configEmail.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/configHttp.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919172634/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919172748/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919172854/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919172955/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919172955/report.html" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919173020/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919173025/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919173141/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919173321/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919173611/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919173645/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919173819/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919173914/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919174004/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919174030/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919174150/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919174219/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919174343/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919174359/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919174421/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919174421/report.html" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/jkutrl/jkresult/20180919174501/output.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/log/test.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/logtest.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/mail2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/readConfig.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/report.html" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/%E7%89%A9%E7%BE%8E%E8%B6%85%E5%B8%82%E5%80%9F%E6%AC%BE(1).zip" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/%E7%89%A9%E7%BE%8E%E8%B6%85%E5%B8%82%E5%80%9F%E6%AC%BE.zip" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/20181107141908车辆信息查询" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/BaiduNetdisk_6.4.0.6.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/JetbrainsCrack-3.1-release-enc.jar" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/XdBA_542" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01.zip" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01/.gitignore" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01/.idea/.name" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01/.idea/awesome-python3-webapp.iml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01/README.md" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01/www/content.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01/www/favicon.ico" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01/www/markdown2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/awesome-python3-webapp-day-01/www/static/README" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/pc投资标的详情页20181022095431.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/pc提现.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/pc黑名单用户登录查看首页20181022095339.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/pycharm-professional-2018.2.4.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/python-3.6.1-amd64.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web.zip" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/.idea/misc.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/.idea/modules.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/.idea/web.iml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/111/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/api/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/api/login.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/api/verify.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/convert_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/datetime_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/db_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/encrypt_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/except_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/json_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/log_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/mail_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/random_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/string_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/verify_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/common/web_helper.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/config/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/config/const.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/log/info.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/main.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/main2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/test/convert_helper_test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/test/datetime_helper_test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/test/db_helper_test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/test/encrypt_helper_test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/test/except_helper_test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/test/json_helper_test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/test/log_helper_test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/test/mail_helper_test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/test/random_helper_test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/code/test/string_helper_test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/html/login.html" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/web/html/main.html" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/未登录时的金服首页20181022095145.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/未登录时的金服首页20181022110958.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/白名单用户登录后金服首页20181022095222.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/白名单用户登录后金服首页20181022104614.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/白名单用户登录后金服首页20181022104807.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/金服PC定期投资列表页20181022095420.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/金服PC定期投资月月盈列表页20181022095426.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/shotcut/金服PC白名单登录后我的账户页面20181022095304.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/report/火狐截图_2018-10-22T01-55-40.420Z.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/run.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/runAll_jk.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/runApp.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/shot.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/bftz4.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/bftz.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/bftz2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/bftz3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/ceshi.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/ceshi2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/ceshi3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/fangkuan.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/fangkuantest.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/geckodriver.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/register.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/register2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/register3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/run2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_baidu2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_baidu3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_baidu4.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_baidu5.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_baidu6.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_baidu7.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_baidu8.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_excel.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_loan_receipt_plan1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_loan_receipt_plan2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_loan_receipt_plan3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_mysql.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_mysql2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_pclogin.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_pp_y1_s1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_pp_y1_sn.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_pp_y2_s1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_tzjjy.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_tznny.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_tzyyy.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_tzyyy1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjbkb2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjbkb_yfb.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjjiaoyisuo.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjjjy.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjjjy_ycx.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjniannianying.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjnny_ycx.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjsanbiao.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjsb_tiqian_day.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjsb_tiqian_month.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjtuijianbiao.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjtyb.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjxsbOK.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjyyy.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/case/test_xjyyy_ycx.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/common/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/common/browser.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/common/page.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/drivers/chromedriver2.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/drivers/phantomjs.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/interface/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/interface/iosrepay.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/interface/iosrepay2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/interface/test_baidu_http.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/interface/test_socket.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/mock/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/mock/mock_socket_server.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/page/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/page/baidu_main_page.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/page/baidu_result_page.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/suit/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/suite/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/utils_backup/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/utils_backup/config.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/utils_backup/config1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test/utils_backup/file_reader.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test_baidu.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test_baidu2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/test_baidu3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/basepage.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/basepage1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/blackwhiteuserpage.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/browser.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/fredpackgepage.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/loginpage.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/page.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/test_login1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/tiyanjinglpage.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/tiyanjinglpage2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/urlpage.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/common/zsjiaxiquanpage.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/drivers/chromedriver2.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/drivers/phantomjs.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/Dog.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/bftz3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/bftz83101.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/bftz9301.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/ddt.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/oldjf_apptz2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/oldjf_apptz_yfbok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/oldjf_apptzok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/t3_9501.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/t5.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test.csv" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test4.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_apphk.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_appinvest2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_appinvest_only.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_appinvest_sh_fk.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_appinvest_sh_fk2ok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_appinvest_sh_fk3zhaiquanok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_baidu_http.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_invest.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_invest_sh_fk.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_sh_fk.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_socket.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_多人投资2801.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_多人投资ok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_多人投资并发.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_多人投资循环2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_多人投资循环ok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/test_定时.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/tt3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/tt4.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/tt5.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/ttt2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/定时.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/并发登录投资_循环ok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/interface/并发登录投资ok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/mock/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/mock/mock_socket_server.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/page/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/page/baidu_main_page.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/page/baidu_result_page.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/baidu4.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/ces.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/ceshi.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/ceshi2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/ceshi3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/test_baidu2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/test_baidu3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/test_baidu4.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/test_baidu5.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/test_baidu6.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/test_baidu7.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/test_baidu72301.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/test_baidu8.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/test_excel.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/test_mysql.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/baidu/test_mysql2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/bftz.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/bftz2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/bftz3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/fangkuan.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/fangkuantest.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/geckodriver.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/geckodriver.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/ghostdriver.log" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/guancha.png111" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/guancha111.png" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/output.xml" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/phantomjs.exe" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/register_bk_tixian_shfkok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/register_bk_tixianok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/register_smyh_ok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/register_smyh_ok2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/rob.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/run2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_invest2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_loan_receipt_plan1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_loan_receipt_plan2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_loan_receipt_plan3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login__pcinvest_shfk_ok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_fftiyanjin_&amp;tzok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_fftiyanjinok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_new_sanbiaook.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_newbkbok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_newhaiwok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_newjjyok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_newnnyok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_newtiyanbiaook.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_newtuijianbiaook.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_newyyy22_pcinvest_shfk.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_newyyy33_pcinvest_shfk_ok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_newyyy_yhok2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_newyyyok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_newyyyok2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_pf2_pclqredpackageok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_pf_redpackageok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_pf_redpackageok2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_tjblack_nameok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_tjwhite_nameok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_login_zs_jiaxiquanok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_loginjb.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pcGeIndexPage.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pcGeIndexPage2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pc_loginok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pc_loginok2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pc_putforward.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pc_recharge.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pcblacklist_sy.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pcinvest_bidd_detail.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pcwhitelist_sy.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pp_y1_s1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pp_y1_sn.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_pp_y2_s1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_tzjjy.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_tznny.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_tzyyy.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_tzyyy1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_tzyyy_cg1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_xjjiaoyisuo.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_xjsanbiao_ycx_day.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_xjsanbiao_ycx_month.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_xjsb_tiqian_p_dayOK.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_xjsb_tiqian_p_monthOK.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/test_xjxsbOK.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/tt1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/录屏.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/录屏2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/总资产全屏.jpg" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/截图.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/截图92401.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/截图92402.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/截图92501.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/截长图.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/截长图92701.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/pc_case/截长图92702.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/suit/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/suite/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/utils_backup/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/utils_backup/config.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/utils_backup/config1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_UI/utils_backup/file_reader.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_app/android截图.JPG" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_app/bj.txt" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/testjf_app/test_androidlogin.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/__init__.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/assertion.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/client.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/config.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/config1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/extractor.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/file_reader.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/file_readerok1.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/generator.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/jiami.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/log.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/mail.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/utils/support.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/wap.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/wap2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/下载ok.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/截图2.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/截图3.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/截图33.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/截图4.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/截图6.py" afterDir="false" />
+      <change afterPath="D:/t金服_测试线上/截图92403.py" afterDir="false" />
+      <change afterPath="D:/t金服_预发布_73001/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/f0ks.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/boke.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/caselist.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/baokuanbiao.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/haiwaiproduct.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/huoqi.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/idcard.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/investamount.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/investbidd.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/investuser1.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/jijiying.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/niannianying.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/register.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/register_sm.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sanbiao.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sanbiao_day.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sanbiao_month.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/sanbiao_ycx_month.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tiyanbiao.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/tuijianbiao.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/xinshoubiao.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/yueyueying.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/~$jijiying.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/~$sanbiao_month.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/chromedriver1.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/drivers/phantomjs.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkresult/20180919175030/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkresult/20180919175030/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkresult/20181017092323/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkresult/20181017092323/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkresult/20181023163650/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkresult/20181023163753/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/apptzok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/jiami2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/jiami3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/mhf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/private.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/public.pem" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/rsajiami.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/t1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testAuth.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testGetAddress.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testGetAddressList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testLoginFB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testLogout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testRegister.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testRegisterQuick.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testUpdatePassword.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testUploadImg.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testappLogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testgetProductList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testgetRegistVerifyCodeWithYzm.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/app/testgethomelist.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/accountRecharge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/biddInfoList.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/clientWithDraw.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/invest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/loadMyAccount.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/logout.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/testPclogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/testsearchInfomation.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/toInvest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/toRecharge.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestCase/pc/toWithDrawPage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestFile/SQL.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestFile/case/applogin2.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestFile/case/auth.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestFile/case/bidInfoList.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestFile/case/getYZM.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestFile/case/pcloginCase - 副本.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestFile/case/pcloginCase.xls" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestFile/emailStyle.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestFile/img/test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestFile/p.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jktestFile/p2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/Log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/basepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/businessCommon.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/configDB.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/configEmail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/configHttp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919172634/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919172748/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919172854/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919172955/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919172955/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919173020/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919173025/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919173141/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919173321/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919173611/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919173645/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919173819/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919173914/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919174004/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919174030/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919174150/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919174219/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919174343/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919174359/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919174421/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919174421/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/jkutrl/jkresult/20180919174501/output.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/test.log" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/test.log.2018-03-19" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/test.log.2018-06-21" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/test.log.2018-07-05" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/test.log.2018-07-24" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/log/test.log.2018-07-26" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mail2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readConfig.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/report.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot_20180227/test_baidu_101424.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot_20180227/test_baidu_102053.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/report/screenshot_20180723/test_baidu_154913.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/run.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runAll_jk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/bftz4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/baidu4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/bftz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/bftz2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/bftz3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/ces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/ceshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/ceshi2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/ceshi3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/fangkuan.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/fangkuantest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/hongfei.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/loginpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/register.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/register2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/register3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/register_cg1ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/register_cg2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/rob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/run2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/sina.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/templates/form.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/templates/home.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/templates/signin-ok.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_baidu2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_baidu3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_baidu4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_baidu5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_baidu6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_baidu7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_baidu72301.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_baidu8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_invest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_loan_receipt_plan1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_loan_receipt_plan2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_loan_receipt_plan3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_login.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_mysql2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_pclogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_pp_y1_s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_pp_y1_sn.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_pp_y2_s1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_tzjjy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_tznny.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_tzyyy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_tzyyy1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_tzyyy_cg1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjbkb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjbkb_yfb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjjiaoyisuo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjjjy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjjjy_ycx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjniannianying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjnny_ycx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjnnyzuidi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjsanbiao_day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjsanbiao_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjsanbiao_ycx_day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjsanbiao_ycx_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjsanbiao_zt_day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjsanbiao_zt_daycaixiang.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjsanbiao_zt_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjsb_tiqian_p_day.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjsb_tiqian_p_month.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjtuijianbiao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjtyb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjxsb.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjyyy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjyyy_ycx.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/test_xjyyydq.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/web框架.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/多进程.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/客户端2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/网络.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/输入输出IO.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/面向对象.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/case/面向对象2&amp;错误调试.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/common/basepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/common/basepage1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/common/browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/common/db.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/common/loginpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/common/page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/common/test_login1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/drivers/chromedriver2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/drivers/phantomjs.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/test_apphk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/test_appinvest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/test_appinvest_only.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/test_appinvest_sh_fk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/test_appinvest_sh_fk2ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/test_appinvest_sh_fk3zhaiquanok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/test_baidu_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/test_invest.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/test_invest_sh_fk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/test_sh_fk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/interface/test_socket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/mock/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/mock/mock_socket_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/page/baidu_main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/page/baidu_result_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/suit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/suite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils_backup/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils_backup/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils_backup/config1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/utils_backup/file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/baidu4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/ces.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/ceshi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/ceshi2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/ceshi3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/test_baidu2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/test_baidu3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/test_baidu4.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/test_baidu5.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/test_baidu6.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/test_baidu7.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/test_baidu72301.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/test_baidu8.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/test_excel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/test_mysql.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/baidu/test_mysql2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/bftz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/bftz2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/bftz3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/geckodriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/hello.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/register_cg_ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/register_sm_whiteok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/register_sm_yhok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/rob.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_invest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login__only_tz_yhok可用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login__only_tzok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login__审核放款可用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login__投资审核放款可用.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_new_sbay_dayok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_new_zudiok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newbkbok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newhaiwaiok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newjjyok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newnnyok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newtiyanbiaook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newtuijianbiaook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newxinshoubiaook.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newyyy2_pctz_shfkok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newyyy3_pctz_ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newyyy4_pcjxqtz_shfkok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newyyy5_pchbtz_shfkok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newyyy6_pchyqtz_shfkok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_newyyyok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_new活期ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_pf2_lq_redpackageok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_pf_redpackageok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_pf_tiyanjinok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_tjblack_nameok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_tjwhite_nameok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_zs_jiaxiquanok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_散标_匹配_按日ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_散标_匹配_按月ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_散标_直投_按日ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_login_散标_直投_按月ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_xjjjy.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_xjniannianying.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/test_登录.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/请求时间.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/转入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/case/转出.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/common/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/common/basepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/common/basepagecankao.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/common/blackwhiteuserpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/common/browser.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/common/fredpackgepage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/common/ftiyanjinpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/common/loginpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/common/page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/common/test_login1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/common/zsjiaxiquanpage.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/drivers/IEDriverServer.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/drivers/chromedriver.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/drivers/chromedriver2.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/drivers/phantomjs.exe" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_apphk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_appinvest2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_appinvest_only.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_appinvest_sh_fk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_appinvest_sh_fk2ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_appinvest_sh_fk3zhaiquanok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_baidu_http.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_invest_sh_fk.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_pcinvest_sh_fkok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_pcinvest_yh_fk2ok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_pcinvestok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_pcsh_fkok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/test_socket.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/testtz.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/interface/tz2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/mock/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/mock/mock_socket_server.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/page/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/page/baidu_main_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/page/baidu_result_page.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/suit/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/suite/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/tt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/utils_backup/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/utils_backup/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/utils_backup/config1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test1/utils_backup/file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_app/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_app/androidlogin.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_app/androidsignok.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_app/bj.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_baidu.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_baidu2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test_baidu3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/HTMLTestRunner.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/assertion.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/client.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/config1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/extractor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/file_reader.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/file_readerok1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/generator.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/log.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/mail.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/support.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wap.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wap2.py" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/t$test_login_new_sbay_monthok.coverage" NAME="test_login_new_sbay_monthok Coverage Results" MODIFIED="1543472749274" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$test_login_newjjyok.coverage" NAME="test_login_newjjyok Coverage Results" MODIFIED="1543978164324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$test_login_pf_redpackageok.coverage" NAME="test_login_pf_redpackageok Coverage Results" MODIFIED="1543557993995" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$ces.coverage" NAME="ces Coverage Results" MODIFIED="1544772973017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case/baidu" />
+    <SUITE FILE_PATH="coverage/t$__1_.coverage" NAME="转入 (1) Coverage Results" MODIFIED="1544774464831" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$test_login_newyyyok.coverage" NAME="test_login_newyyyok Coverage Results" MODIFIED="1543894588739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$test_login_newok.coverage" NAME="test_login_new活期ok Coverage Results" MODIFIED="1544667596435" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$.coverage" NAME="请求时间 Coverage Results" MODIFIED="1545011145776" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$test_login__only_tz_yhok.coverage" NAME="test_login__only_tz_yhok可用 Coverage Results" MODIFIED="1543200362618" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$test_loginjb.coverage" NAME="test_loginjb Coverage Results" MODIFIED="1543829445008" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$test_login_newtiyanbiaook.coverage" NAME="test_login_newtiyanbiaook Coverage Results" MODIFIED="1544003983444" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$test_login__shfkok.coverage" NAME="test_login__shfkok可用 Coverage Results" MODIFIED="1543309093992" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$test_.coverage" NAME="test_登录 Coverage Results" MODIFIED="1544429288116" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$test_login__.coverage" NAME="test_login__投资审核放款可用 Coverage Results" MODIFIED="1544774427587" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$test_login_newhaiwaiok.coverage" NAME="test_login_newhaiwaiok Coverage Results" MODIFIED="1542960593689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+    <SUITE FILE_PATH="coverage/t$Nosetests_in_test_login__shfkok_py.coverage" NAME="Nosetests in test_login__shfkok可用.py Coverage Results" MODIFIED="1543202183012" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test1/case" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-59633343">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="18" />
+          <entry key="project.open.time.1" value="2" />
+          <entry key="project.open.time.125" value="1" />
+          <entry key="project.open.time.159" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.open.time.33" value="1" />
+          <entry key="project.open.time.39" value="1" />
+          <entry key="project.open.time.42" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.48" value="1" />
+          <entry key="project.open.time.49" value="1" />
+          <entry key="project.open.time.5" value="2" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.63" value="1" />
+          <entry key="project.open.time.64" value="1" />
+          <entry key="project.open.time.7" value="1" />
+          <entry key="project.open.time.8" value="1" />
+          <entry key="project.open.time.91" value="1" />
+          <entry key="project.open.time.92" value="1" />
+          <entry key="project.opened" value="20" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="py" value="97" />
+          <entry key="yml" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="Python" value="97" />
+          <entry key="YAML" value="3" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="25" />
+          <entry key="py" value="2228" />
+          <entry key="txt" value="34" />
+          <entry key="yml" value="7" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="Python" value="2228" />
+          <entry key="YAML" value="7" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="jftest1" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1/case/转出.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="513">
+              <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1/case/test_login_new活期ok.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="361">
+              <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1/case/test_登录.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1/case/转入.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="722">
+              <caret line="46" selection-start-line="46" selection-end-line="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1/case/test_login__投资审核放款可用.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="551">
+              <caret line="37" column="22" lean-forward="true" selection-end-line="78" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test1/case/请求时间.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1/case/baidu/ces.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2565">
+              <caret line="135" selection-start-line="135" selection-end-line="135" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/test1/case/test_login_pf_redpackageok.py">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>alert</find>
+      <find>//*[@id='left']/div/ul/li[6]/div/span[1]</find>
+      <find>A爆款标2018030205</find>
+      <find>bidd_code</find>
+      <find>tzbidds</find>
+      <find>pymysql</find>
+      <find>mysql</find>
+      <find>cursors</find>
+      <find>biddcode</find>
+      <find>amount</find>
+      <find>cell_value</find>
+      <find>user</find>
+      <find>frame</find>
+      <find>13661202884</find>
+      <find>23</find>
+      <find>token</find>
+      <find>password</find>
+      <find>xztel</find>
+      <find>tel</find>
+      <find>cb-children</find>
+      <find>choose</find>
+      <find>confirmOkBtn</find>
+      <find>choosetype</find>
+      <find>click_yyydq</find>
+      <find>print</find>
+      <find>a</find>
+      <find>fb</find>
+      <find>fp</find>
+      <find>title</find>
+      <find>session</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="AUTO_COMMIT_ON_CHERRY_PICK" value="true" />
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="6ea067c6-d577-4bc6-b282-4966b53ffca5" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test1/case/test_login_pf2_lq_redpackageok.py" />
+        <option value="$PROJECT_DIR$/jktestCase/pc/testPclogin.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_invest2.py" />
+        <option value="$PROJECT_DIR$/test1/case/hello.py" />
+        <option value="$PROJECT_DIR$/test1/case/函数.py" />
+        <option value="$PROJECT_DIR$/test/case/test.py" />
+        <option value="$PROJECT_DIR$/test/case/面向对象.py" />
+        <option value="$PROJECT_DIR$/test1/case/register_sm_yhok.py" />
+        <option value="$PROJECT_DIR$/test/case/面向对象2.py" />
+        <option value="$PROJECT_DIR$/test1/case/111.py" />
+        <option value="$PROJECT_DIR$/test/case/面向对象2&amp;错误调试.py" />
+        <option value="$PROJECT_DIR$/test/case/IO.py" />
+        <option value="$PROJECT_DIR$/test1/interface/test_invest_sh_fk.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login__only_tz_yhok.py" />
+        <option value="$PROJECT_DIR$/test/case/多进程.py" />
+        <option value="$PROJECT_DIR$/test/case/客户端2.py" />
+        <option value="$PROJECT_DIR$/test/case/网络.py" />
+        <option value="$PROJECT_DIR$/test/case/templates/1.html" />
+        <option value="$PROJECT_DIR$/test/case/templates/form.html" />
+        <option value="$PROJECT_DIR$/test/case/templates/signin-ok.html" />
+        <option value="$PROJECT_DIR$/test/case/bftz.py" />
+        <option value="$PROJECT_DIR$/test/case/web框架.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login_newhaiwaiok.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login__shfkok.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login__shfkok可用.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login__only_tz_yhok可用.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login_new_sbay_monthok.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login_散标_直投_按日ok.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login_散标_匹配_按日ok.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login_散标_匹配_按月ok.py" />
+        <option value="$PROJECT_DIR$/test1/case/bftz.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_loginjb.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login_newyyyok.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login_newjjyok.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login_newtiyanbiaook.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login__审核放款可用.py" />
+        <option value="$PROJECT_DIR$/test1/common/loginpage.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login_new活期ok.py" />
+        <option value="$PROJECT_DIR$/test1/interface/转入.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_xjsanbiao_zt_month.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_xjsanbiao_ycx_month.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_xjsanbiao_ycx_day.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_xjsanbiao_dayok.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_xjjjy_ycx.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_xjbkb_yfb.py" />
+        <option value="$PROJECT_DIR$/test1/case/转出.py" />
+        <option value="$PROJECT_DIR$/test1/case/test_login__投资审核放款可用.py" />
+        <option value="$PROJECT_DIR$/test1/case/转入.py" />
+        <option value="$PROJECT_DIR$/test1/case/baidu/ces.py" />
+        <option value="$PROJECT_DIR$/config/config.yml" />
+        <option value="$PROJECT_DIR$/test1/case/请求时间.py" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="173" />
+    <option name="y" value="58" />
+    <option name="width" value="1179" />
+    <option name="height" value="616" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="t金服重构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t金服重构" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t金服重构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t金服重构" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="t金服重构" type="b2602c69:ProjectViewProjectNode" />
+              <item name="t金服重构" type="462c0819:PsiDirectoryNode" />
+              <item name="test1" type="462c0819:PsiDirectoryNode" />
+              <item name="case" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="SearchEverywhereHistoryKey" value="test.py&#9;FILE&#9;file://D:/jftest1_CG/test/case/test.py&#10;log&#9;FILE&#9;file://D:/jftest1_CG/logtest.log" />
+    <property name="ToolWindowEvent Log.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="D:/t金服_测试线上/report/shotcut/web" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\t金服重构\test\case" />
+      <recent name="D:\t金服重构\test1\case" />
+      <recent name="D:\jftest1_CG\test1\case\baidu" />
+      <recent name="D:\jftest1_CG\test\case" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\t金服重构\test1\case" />
+      <recent name="D:\t金服重构\test1\interface" />
+      <recent name="D:\t金服重构\data" />
+      <recent name="D:\t金服重构\test\case" />
+      <recent name="D:\t金服重构\jkutrl" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.appium2">
+    <configuration name="转入 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f0ks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1/case/转入.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="转出" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f0ks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1/case/转出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="请求时间" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f0ks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1/case/请求时间.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="转出" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f0ks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1/case/转出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="转出" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f0ks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1/case/转出.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="appium2" type="PythonConfigurationType" factoryName="Python">
+      <module name="f0ks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/appium2.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="ces" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f0ks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1/case/baidu" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1/case/baidu/ces.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_login__投资审核放款可用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f0ks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1/case/test_login__投资审核放款可用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_login__审核放款可用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f0ks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1/case/test_login__审核放款可用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_login__审核放款可用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="f0ks" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test1/case" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test1/case/test_login__审核放款可用.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.appium2" />
+      <item itemvalue="Python.test_login__投资审核放款可用" />
+      <item itemvalue="Python.转入 (1)" />
+      <item itemvalue="Python.转出" />
+      <item itemvalue="Python.ces" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.转入 (1)" />
+        <item itemvalue="Python.test_login__投资审核放款可用" />
+        <item itemvalue="Python.转出" />
+        <item itemvalue="Python.ces" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e370bf32-420d-4211-9452-7c0463b24bab" name="Default" comment="" />
+      <created>1516699793415</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1516699793415</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Doctests_in_client - 2018.02.27 at 10h 30m 29s.xml">
+      <configuration name="Doctests in client" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_baidu2_TestBaiDu - 2018.02.26 at 14h 46m 43s.xml">
+      <configuration name="Nosetests for test_baidu2.TestBaiDu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_for_test_baidu2_TestBaiDu - 2018.02.26 at 14h 48m 16s.xml">
+      <configuration name="Nosetests for test_baidu2.TestBaiDu" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_hello_py - 2018.10.25 at 11h 34m 18s.xml">
+      <configuration name="Nosetests in hello.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_hello_py - 2018.10.25 at 11h 37m 45s.xml">
+      <configuration name="Nosetests in hello.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_baidu2_py - 2018.02.26 at 14h 48m 06s.xml">
+      <configuration name="Nosetests in test_baidu2.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Nosetests_in_test_login__shfkok可用_py - 2018.11.26 at 11h 16m 23s.xml">
+      <configuration name="Nosetests in test_login__shfkok可用.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" order="0" side_tool="true" weight="0.32972524" />
+      <window_info active="true" content_ui="combo" id="Project" order="1" visible="true" weight="0.16717096" />
+      <window_info id="Structure" order="2" weight="0.14781298" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.49914822" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49394855" weight="0.5411765" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39849624" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" visible="true" weight="0.46507666" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5060514" side_tool="true" weight="0.46678025" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32993197" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="12" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" weight="0.016591253" />
+      <window_info anchor="right" id="SciView" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Favorites" order="0" side_tool="true" weight="0.32972524" />
+      <window_info content_ui="combo" id="Project" order="1" visible="true" weight="0.16641453" />
+      <window_info id="Structure" order="2" weight="0.14781298" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.5" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.4969743" visible="true" weight="0.19557823" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39965987" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.5030257" side_tool="true" weight="0.44387755" />
+      <window_info anchor="bottom" id="Python Console" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32993197" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Data View" order="3" weight="0.016591253" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="111" />
+    <option name="LAST_COMMIT_MESSAGE" value="111" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_newjjyok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1102">
+          <caret line="63" column="52" selection-start-line="63" selection-start-column="52" selection-end-line="63" selection-end-column="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_new_sbay_dayok.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_散标_匹配_按日ok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="8" column="39" selection-start-line="8" selection-start-column="39" selection-end-line="8" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jktestCase/app/testRegisterQuick.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1121">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/interface/test_appinvest_sh_fk2ok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-399" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/jktestCase/app/testappLogin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-506">
+          <caret line="21" column="39" lean-forward="true" selection-start-line="21" selection-start-column="39" selection-end-line="21" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/common/loginpage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2223">
+          <caret line="118" column="24" selection-start-line="118" selection-start-column="24" selection-end-line="118" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjyyydq.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjyyy.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjxsb.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjtyb.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjsb_tiqian_p_day.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjsb_tiqian_p_month.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjtuijianbiao.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjsanbiao_zt_month.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjsanbiao_zt_daycaixiang.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjsanbiao_zt_day.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjsanbiao_ycx_month.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjsanbiao_ycx_day.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjsanbiao_monthok.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjsanbiao_dayok.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjnnyzuidi.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjjjy_ycx.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjniannianying.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1425" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjjiaoyisuo.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjbkb_yfb.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_tzyyy_cg1.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/test_xjjjy.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_zs_jiaxiquanok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-226" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_tjwhite_nameok.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_tjblack_nameok.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_pf_tiyanjinok.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/fangkuan.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/fangkuantest.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/hello.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="10" lean-forward="true" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_newyyy6_pchyqtz_shfkok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2109" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_newyyyok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="32" column="22" selection-start-line="32" selection-start-column="22" selection-end-line="32" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_newyyy2_pctz_shfkok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2767" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/interface/转入.py" />
+    <entry file="file://$PROJECT_DIR$/test1/case/register_cg_ok.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/-1235271266/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-463">
+          <caret line="3694" column="8" selection-start-line="3694" selection-start-column="8" selection-end-line="3694" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/转出.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="513">
+          <caret line="35" column="25" selection-start-line="35" selection-start-column="25" selection-end-line="35" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_new活期ok.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="24" column="29" selection-start-line="24" selection-start-column="29" selection-end-line="24" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_登录.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="15" column="22" lean-forward="true" selection-start-line="15" selection-start-column="22" selection-end-line="15" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/转入.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="722">
+          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login__投资审核放款可用.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="37" column="22" lean-forward="true" selection-end-line="78" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/baidu/ces.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2565">
+          <caret line="135" selection-start-line="135" selection-end-line="135" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/test_login_pf_redpackageok.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="11" column="4" lean-forward="true" selection-start-line="11" selection-start-column="4" selection-end-line="11" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test1/case/请求时间.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="21" column="18" lean-forward="true" selection-start-line="21" selection-start-column="18" selection-end-line="21" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
